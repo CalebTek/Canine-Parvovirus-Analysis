@@ -38,7 +38,7 @@ CPV infection occurs worldwide in domestic dogs, with higher incidences in place
     - Data
     - Figures
     - Notebooks
-        - Canine_Parvovirus_Analysis.ipynb
+        - [Canine Parvovirus Analysis](Notebooks/Canine_Parvovirus_Analysis.ipynb)
     - README.md
 
 ## Contributors
